@@ -1,0 +1,8 @@
+Polymer_Code,Primary_Application,Market_Share_Percent,Recycling_Efficiency_Score
+PET_1,Beverage_Bottles,22.4,0.85
+HDPE_2,Rigid_Containers,18.1,0.8
+PVC_3,Pipes_Cables,8.5,0.2
+LDPE_LLDPE_4,Films_Bags,24.6,0.65
+PP_5,Tubs_Automotive,18.3,0.5
+PS_EPS_6,Food_Trays_Insulation,4.2,0.15
+OTHER_7,Multi_Layer,3.9,0.05

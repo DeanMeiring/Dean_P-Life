@@ -1,0 +1,7 @@
+Metric_Category,Value_Lower_Bound,Value_Upper_Bound,Unit
+Total_Annual_Plastic_Waste_Generated,2300000.0,2500000.0,Tonnes/Year
+Estimated_Mismanaged_Plastic_Waste,480000.0,720000.0,Tonnes/Year
+Land_Based_Plastic_Leakage,300000.0,550000.0,Tonnes/Year
+Riverine_Coastal_Ocean_Input,15000.0,40000.0,Tonnes/Year
+Informal_Reclaimer_Collection_Share,80.0,90.0,Percent
+Municipal_Waste_Uncollected_Pct,31.2,37.8,Percent

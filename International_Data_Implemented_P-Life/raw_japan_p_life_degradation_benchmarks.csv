@@ -1,0 +1,5 @@
+Testing_Standard,Target_Polymer,Additive_Dosage_Pct,Key_Decomposing_Bacteria,Biodegradation_6Mo_Pct,Biodegradation_12Mo_Pct,Biodegradation_24Mo_Pct,Microplastic_Persistence_Score
+JIS_K6955_Soil,Polypropylene_PP,1.5,Cupriavidus_sp / Bacillus_sp,32.5,64.1,91.0,0.05
+ISO_17556_Soil,Polyethylene_PE,1.5,Camelimonas_lactis,28.0,58.4,84.5,0.1
+Marine_Seawater_Test,Polypropylene_PP,2.0,Alcanivorax_sp,18.2,42.0,71.3,0.2
+Control_Standard_PE_PP,Untreated_PE_PP,0.0,None,0.2,0.5,1.1,1.0
